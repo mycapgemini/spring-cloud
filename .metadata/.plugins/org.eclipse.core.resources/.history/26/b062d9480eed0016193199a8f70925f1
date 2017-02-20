@@ -1,0 +1,5 @@
+package org.sample.rabbitmq;
+
+public class Receiver {
+
+}

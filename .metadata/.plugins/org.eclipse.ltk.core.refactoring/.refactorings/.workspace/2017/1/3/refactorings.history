@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;netflix-zuul-application&apos;" deleteContents="true" description="Delete resource &apos;netflix-zuul-application&apos;" element1="/netflix-zuul-application" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1484669547610"/>
+</session>

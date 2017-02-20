@@ -1,0 +1,5 @@
+package org.zuul.gatewau.service;
+
+public class SimpleFilter {
+
+}

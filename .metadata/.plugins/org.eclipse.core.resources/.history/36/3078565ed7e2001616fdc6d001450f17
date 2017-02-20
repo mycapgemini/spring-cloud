@@ -1,0 +1,11 @@
+say-hello:
+      ribbon:
+          eureka:
+                enabled: false
+          serverListRefreshInterval: 15000
+          client:
+            serviceUrl:
+                defaultZone: http://localhost:8090/eureka/
+
+server:
+  port: 8080

@@ -1,0 +1,6 @@
+say-hello:
+      ribbon:
+          eureka:
+                enabled: false
+          listOfServers: http://localhost:8090,http://localhost:8091
+          serverListRefreshInterval: 15000

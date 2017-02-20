@@ -1,0 +1,12 @@
+package netflix.ribbon.client;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class NetflixRibbonClientApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(NetflixRibbonClientApplication.class, args);
+	}
+}
